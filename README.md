@@ -1,14 +1,9 @@
-musicMover
+# PS_Music_Mover
 
-Ripping CDs, converting to Apple Lossless and moving them to a Mac
+## About
+Powershell script to convert flac library to m4a.
 
-Conversion requires ffmpeg to be installed on the Windows machine. 
+### How to Run
 
-Script runs in powershell.
-
-proto1.sh converts all flac files over to lossless m4a. 
-
-##TODO Script to move flac only files from Meda_safe to Music\Lossless\flac
-
-##TODO Mac script to copy PC Music\Lossless\m4a to adkj\Music\ on Mac
-
+convert_all_flac_to_m4a.ps1
+requires ffmpeg to be installed
