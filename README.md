@@ -1,4 +1,4 @@
-Flac-to-m4a-conversion-script
+# Flac-to-m4a-conversion-script
 
 ## About
 Powershell script to convert flac library to m4a.
